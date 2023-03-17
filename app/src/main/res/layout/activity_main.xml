@@ -48,7 +48,7 @@
             android:id="@+id/btn5"
             android:layout_marginLeft="11dp"
             android:onClick="check"
-            android:backgroundTint="@color/white"
+            android:backgroundTint="@color/teal_200"
             />
         <Button
             android:id="@+id/btn6"
