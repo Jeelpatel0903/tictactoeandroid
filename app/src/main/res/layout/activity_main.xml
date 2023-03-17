@@ -29,8 +29,6 @@
 
         <Button
             android:id="@+id/btn1"
-            android:onClick="check"
-            />
         <Button
             android:id="@+id/btn2"
             android:layout_marginLeft="11dp"
@@ -49,6 +47,7 @@
             android:id="@+id/btn5"
             android:layout_marginLeft="11dp"
             android:onClick="check"
+            android:backgroundTint="@color/teal_200"
             />
         <Button
             android:id="@+id/btn6"
